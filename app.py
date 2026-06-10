@@ -171,7 +171,7 @@ una frase con TU hallazgo + una frase con TU recomendacion.
 Ejemplo de la estructura (no copies el contenido, escribe el tuyo):
 *"Descubri que [HALLAZGO con un dato concreto]. Recomiendo
 [ACCION concreta] para [RESULTADO esperado]."*
-    """)
+
 
 # ============================================================
 # INSIGHT DE NEGOCIO
