@@ -33,7 +33,7 @@ TU_ID     = "000000"
 # Despues vuelves a GitHub, editas esta linea, y haces commit.
 # Streamlit Cloud actualiza tu dashboard solo en 30 segundos.
 # ============================================================
-TU_INSIGHT = ""Descubrí que en 2017 el Top 10 de órdenes cerró con una pérdida neta de $-417.61$, mientras que en 2018 la situación se revirtió alcanzando una ganancia neta de $528.80$.
+TU_INSIGHT = """Descubrí que en 2017 el Top 10 de órdenes cerró con una pérdida neta de -417.61, mientras que en 2018 la situación se revirtió alcanzando una ganancia neta de 528.80.
 
 Recomiendo replicar la estrategia comercial y de precios de 2018 para sostener la rentabilidad de la categoría Furniture."""
 Aun no he escrito mi insight. Lo agregare despues de explorar
